@@ -6,6 +6,7 @@ Some users come from [RiversideRocks](https://riverside.rocks)'s [DangerousUserD
 
 Appeal bans [using scamcentral](https://scams.riverside.rocks/d/10-takedown-a-dudb-report/2)
 
+When adding users, please link a ScamCentral forum post as proof.
 
 Valid report reasons
 - raiding
